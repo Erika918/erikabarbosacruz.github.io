@@ -1,12 +1,13 @@
 ### erikabarbosacruz.github.io
 
-# 👋 Olá, eu sou Erika Barbosa da Cruz
+# 👋 Olá, Sou Erika Barbosa da Cruz
 
-🔭 **Atualmente estou trabalhando com Tratativa de fraudes e atendimento ao cliente
+🔭 **Atualmente estou trabalhando com Analista de Atendimento ao Cliente na Accenture
 
-🎓 **Estudando Python-Banco de Dados, ETL Avançado e Automação Web + GitHub! **Realizando o Bootcamp na plataforma da DIO XP Inc. - Full Stack Developer
+🎓 **Estudando Python-Banco de Dados, ETL Avançado e Automação Web + GitHub! 
+**Realizando cursos e tutoriais voltados ao mercado de TI.
 
-📍 **Localização**:Belo Horizonte,Brasil
+
 ## 🌱 Estou Aprendendo 
 - 🐍 Python
 - 🌐 Automação Web
@@ -33,6 +34,6 @@ Sou apaixonado por transformar dados em insights e tenho experiência em tratati
   
 </div>
 
-
+📍 **Localização**:Belo Horizonte,Brasil
   
 Obrigado por visitar meu perfil! 😊
