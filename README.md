@@ -63,11 +63,9 @@ Sou uma profissional dedicada à análise e transformação de dados em informa�
   <img align="center" alt="Erika-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 
 
-
+---
 
 ## 📫 Vamos nos conectar!
-
-
 
 
 <a href="https://www.instagram.com/erikargn22/" target="_blank">
@@ -83,14 +81,9 @@ Sou uma profissional dedicada à análise e transformação de dados em informa�
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
 </a>
  
-
-
-
-
+---
 
 
 📍 **Localização**:Belo Horizonte,Brasil
   
-
-
-Obrigado por visitar meu perfil! 😊
+🙏 Obrigado por visitar meu perfil! 😊
