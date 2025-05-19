@@ -67,6 +67,9 @@ Sou uma profissional dedicada à análise e transformação de dados em informa�
 
 ## 📫 Vamos nos conectar!
 
+
+
+
 <a href="https://www.instagram.com/erikargn22/" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
@@ -83,6 +86,11 @@ Sou uma profissional dedicada à análise e transformação de dados em informa�
 
 
 
+
+
+
 📍 **Localização**:Belo Horizonte,Brasil
   
+
+
 Obrigado por visitar meu perfil! 😊
