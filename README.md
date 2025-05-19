@@ -2,10 +2,49 @@
 
 # 👋 Olá, Sou Erika Barbosa da Cruz
 
-🔭 **Atualmente estou trabalhando com Analista de Atendimento ao Cliente na Accenture
+🔭 **Atualmente estou trabalhando como Analista de Atendimento ao Cliente na Accenture
 
-🎓 **Estudando Python-Banco de Dados, ETL Avançado e Automação Web + GitHub! 
-**Realizando cursos e tutoriais voltados ao mercado de TI.
+## 🧠 Cursos e Certificações em Tecnologia da Informação
+
+Ao longo da minha jornada, tenho me dedicado ao aprimoramento técnico por meio de cursos voltados às áreas de desenvolvimento, banco de dados e gestão. Abaixo, estão os principais:
+
+---
+
+### 📘 Fundamentos de Gestão de Projetos  
+- Plataforma: [LinkedIn Learning](https://www.linkedin.com/learning/)  
+- Abordagem dos princípios do PMI e metodologias ágeis.
+
+---
+
+### 🗃️ Banco de Dados (SQL e Relacional)  
+- Plataforma: [Udemy](https://www.udemy.com/)  
+- Princípios de modelagem, queries, DDL/DML e práticas com MySQL e SQLite.
+
+---
+
+### 🧩 Algoritmos e Lógica de Programação – O Curso COMPLETO  
+- Plataforma: [Udemy](https://www.udemy.com/)  
+- Estruturas de controle, vetores, funções, recursividade, com aplicações práticas em pseudocódigo e Python.
+
+---
+
+### 🐍 Python + Banco de Dados, ETL Avançado e Automação Web  
+- Plataforma: [Udemy](https://www.udemy.com/)  
+- Automação com Selenium, integração com bases de dados, técnicas de ETL, conexão API e exportações para Excel.
+
+---
+
+### 🔧 Git e GitHub para Desenvolvedores  
+- Plataforma: [Udemy](https://www.udemy.com/)  
+- Versionamento de código, criação de branches, GitHub Pages e colaboração em repositórios públicos/privados.
+
+---
+
+### 💡 Tutoriais e Projetos Práticos  
+- Área: Desenvolvimento Web e Infraestrutura  
+- Projetos próprios, automações, documentação em Markdown e publicação de portfólios.
+
+---
 
 
 ## 🌱 Estou Aprendendo 
