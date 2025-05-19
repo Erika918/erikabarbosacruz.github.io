@@ -65,16 +65,6 @@ Sou uma profissional dedicada à análise e transformação de dados em informa�
 
 
 
-Sou apaixonado por transformar dados em insights e tenho experiência em tratativa de fraude e atendimento ao cliente. Atualmente, trabalho na área de Risco, ajudando a melhorar processos e garantir segurança.  
-
-
-
-
-
-
-
-
-
 ## 📫 Vamos nos conectar!
 
 - <div>
