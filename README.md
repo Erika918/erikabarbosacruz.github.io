@@ -2,11 +2,13 @@
 
 # 👋 Olá, Sou Erika Barbosa da Cruz
 
-🔭 **Atualmente estou trabalhando como Analista de Atendimento ao Cliente na Accenture
+🔭 **Atualmente estou trabalhando como Analista de Atendimento ao Cliente na Accenture!
+
+💬 Sobre Mim
+
+Sou uma profissional dedicada à análise e transformação de dados em informações estratégicas. Possuo experiência sólida em tratativas de fraude, atendimento ao cliente e operações de risco, atuando com foco na melhoria contínua de processos, prevenção de perdas e garantia da segurança operacional.
 
 ## 🧠 Cursos e Certificações em Tecnologia da Informação
-
-Ao longo da minha jornada, tenho me dedicado ao aprimoramento técnico por meio de cursos voltados às áreas de desenvolvimento, banco de dados e gestão. Abaixo, estão os principais:
 
 ---
 
@@ -54,21 +56,29 @@ Ao longo da minha jornada, tenho me dedicado ao aprimoramento técnico por meio 
 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Erika-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Erika-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
   <img align="center" alt="Erika-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Erika-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Erika-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Erika-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="REST API" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  
+  <img align="center" alt="Erika-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+</div>
 
-## 💬 Sobre Mim
+
 
 Sou apaixonado por transformar dados em insights e tenho experiência em tratativa de fraude e atendimento ao cliente. Atualmente, trabalho na área de Risco, ajudando a melhorar processos e garantir segurança.  
+
+
+
+
+
+
+
+
 
 ## 📫 Vamos nos conectar!
 
 - <div>
+
   <a href="https://www.instagram.com/erikargn22/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> <a href = "mailto:contatoerikaregis42@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  <a href="https://www.linkedin.com/in/erika-barbosa-da-cruz-587911186/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
