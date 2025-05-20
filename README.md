@@ -6,11 +6,14 @@
 
 💬 Sobre Mim
 
-Sou uma profissional dedicada à análise e transformação de dados em informações estratégicas. Possuo experiência sólida em tratativas de fraude, atendimento ao cliente e operações de risco, atuando com foco na melhoria contínua de processos, prevenção de perdas e garantia da segurança operacional.
+Sou uma profissional dedicada à análise e transformação de dados em informações estratégicas. Tenho experiência em tratativas de fraude, atendimento ao cliente e operações de risco, sempre com foco na melhoria contínua de processos, prevenção de perdas e garantia da segurança operacional.
+
+Em minha trajetória, destaco o estágio em Tecnologia da Informação na Take Blip (via I.T Corp Solutions), realizado entre setembro de 2022 e janeiro de 2023, onde atuei apoiando a equipe no uso de tecnologias voltadas à comunicação digital e contribuí para melhorar a integração entre sistemas e processos internos.
+
+---
 
 ## 🧠 Cursos e Certificações em Tecnologia da Informação
 
----
 
 ### 📘 Fundamentos de Gestão de Projetos  
 - Plataforma: [LinkedIn Learning](https://www.linkedin.com/learning/)  
