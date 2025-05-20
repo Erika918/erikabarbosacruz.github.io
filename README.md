@@ -51,40 +51,20 @@ Em minha trajetória, destaco o estágio em Tecnologia da Informação na Take B
 
 ---
 
+### 🌱 Estou Aprendendo  
+- 🐍 Python  
+- 🌐 Automação Web  
+- 📊 Análise de Dados  
 
+<div style="display: inline-block"><br>
+  <img align="center" alt="Erika-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
+  <img align="center" alt="Erika-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Erika-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Erika-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Erika-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+</div>
 
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-  <meta charset="UTF-8">
-  <title>Portfólio Erika</title>
-</head>
-<body>
-
-  <h2>🌱 Estou Aprendendo</h2>
-  <ul>
-    <li>🐍 Python</li>
-    <li>🌐 Automação Web</li>
-    <li>📊 Análise de Dados</li>
-  </ul>
-
-</body>
-</html>
-
-  <div style="display: inline-block;"><br>
-    <img align="center" alt="Erika-Js" height="30" width="40"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Erika-HTML" height="30" width="40"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Erika-CSS" height="30" width="40"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Erika-Python" height="30" width="40"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Erika-PostgreSQL" height="30" width="40"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  </div>
-
-  <hr>
+---
 
   <h2>📫 Vamos nos conectar!</h2>
 
