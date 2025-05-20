@@ -53,11 +53,11 @@ Em minha trajetória, destaco o estágio em Tecnologia da Informação na Take B
 
 
 
+<!DOCTYPE html>
 <html lang="pt-br">
 <head>
   <meta charset="UTF-8">
   <title>Portfólio Erika</title>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 </head>
 <body>
 
@@ -67,6 +67,9 @@ Em minha trajetória, destaco o estágio em Tecnologia da Informação na Take B
     <li>🌐 Automação Web</li>
     <li>📊 Análise de Dados</li>
   </ul>
+
+</body>
+</html>
 
   <div style="display: inline-block;"><br>
     <img align="center" alt="Erika-Js" height="30" width="40"
