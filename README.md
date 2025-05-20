@@ -6,7 +6,11 @@
 
 💬 Sobre Mim
 
-Sou uma profissional dedicada à análise e transformação de dados em informações estratégicas. Tenho experiência em tratativas de fraude, atendimento ao cliente e operações de risco, sempre com foco na melhoria contínua de processos, prevenção de perdas e garantia da segurança operacional.
+Sou uma profissional dedicada à análise e transformação de dados em informações estratégicas. Tenho experiência em tratativas de fraude, atendimento ao cliente e operações de risco, sempre com foco na melhoria contínua de processos, e na garantia da segurança operacional.
+
+LIQ (Agosto de 2013 – Novembro de 2018) – Atuei como Atendente de Telemarketing, realizando atendimentos ativos e receptivos com foco em vendas consultivas e retenção de clientes. Desenvolvi experiência no setor de telecomunicações, lidando com demandas de alto volume e diferentes perfis de consumidores.
+
+Fideleasy330 (Outubro de 2019 – Abril de 2020) – Atuei como Analista de Negócios, realizando mapeamento de processos, identificação de oportunidades e colaboração em projetos voltados à melhoria operacional e aumento da eficiência.
 
 Em minha trajetória, destaco o estágio em Tecnologia da Informação na Take Blip (via I.T Corp Solutions), realizado entre setembro de 2022 e janeiro de 2023, onde atuei apoiando a equipe no uso de tecnologias voltadas à comunicação digital e contribuí para melhorar a integração entre sistemas e processos internos.
 
@@ -68,9 +72,9 @@ Em minha trajetória, destaco o estágio em Tecnologia da Informação na Take B
 
   <h2>📫 Vamos nos conectar!</h2>
 
-  <a href="https://www.instagram.com/erikargn22/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
+ <a href="https://wa.me/5531975011396" target="_blank">
+  <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+ </a> 
 
   <a href="mailto:contatoerikaregis42@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
@@ -87,6 +91,6 @@ Em minha trajetória, destaco o estágio em Tecnologia da Informação na Take B
   ---
 
   <p><strong>📍 Localização:</strong> Belo Horizonte, Brasil</p>
-  <p>🙏 Obrigado por visitar meu perfil! 😊</p>
+  <p>🙏 Obrigado por visitar meu Currículo! 😊</p>
 
 
