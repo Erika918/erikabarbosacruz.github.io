@@ -84,9 +84,11 @@ Em minha trajetória, destaco o estágio em Tecnologia da Informação na Take B
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
-  <a href="https://discord.com/users/SEU-ID-DE-USUÁRIO" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+  <a href="https://erika918.github.io/erikabarbosacruz.github.io/" target="_blank">
+   <img src="https://img.shields.io/badge/-GitHub-%23121011?style=for-the-badge&logo=github& 
+   logoColor=white">
   </a>
+
 
   ---
 
