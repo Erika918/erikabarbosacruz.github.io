@@ -52,41 +52,58 @@ Em minha trajetória, destaco o estágio em Tecnologia da Informação na Take B
 ---
 
 
-## 🌱 Estou Aprendendo 
-- 🐍 Python
-- 🌐 Automação Web
-- 📊 Análise de Dados
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Portfólio Erika</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+</head>
+<body>
 
+  <h2>🌱 Estou Aprendendo</h2>
+  <ul>
+    <li>🐍 Python</li>
+    <li>🌐 Automação Web</li>
+    <li>📊 Análise de Dados</li>
+  </ul>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Erika-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
-  <img align="center" alt="Erika-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Erika-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Erika-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Erika-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <div style="display: inline-block;"><br>
+    <img align="center" alt="Erika-Js" height="30" width="40"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Erika-HTML" height="30" width="40"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Erika-CSS" height="30" width="40"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Erika-Python" height="30" width="40"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="Erika-PostgreSQL" height="30" width="40"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  </div>
 
+  <hr>
 
----
+  <h2>📫 Vamos nos conectar!</h2>
 
-## 📫 Vamos nos conectar!
+  <a href="https://www.instagram.com/erikargn22/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
 
+  <a href="mailto:contatoerikaregis42@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 
-<a href="https://www.instagram.com/erikargn22/" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<a href="mailto:contatoerikaregis42@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/in/erika-barbosa-da-cruz-587911186/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="https://discord.com/users/SEU-ID-DE-USUÁRIO" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-</a>
- 
----
+  <a href="https://www.linkedin.com/in/erika-barbosa-da-cruz-587911186/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 
+  <a href="https://discord.com/users/SEU-ID-DE-USUÁRIO" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
 
-📍 **Localização**:Belo Horizonte,Brasil
-  
-🙏 Obrigado por visitar meu perfil! 😊
+  <p><strong>📍 Localização:</strong> Belo Horizonte, Brasil</p>
+  <p>🙏 Obrigado por visitar meu perfil! 😊</p>
+
+</body>
+</html>
+
