@@ -84,9 +84,9 @@ Em minha trajetória, destaco o estágio em Tecnologia da Informação na Take B
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   </a>
 
+  ---
+
   <p><strong>📍 Localização:</strong> Belo Horizonte, Brasil</p>
   <p>🙏 Obrigado por visitar meu perfil! 😊</p>
 
-</body>
-</html>
 
