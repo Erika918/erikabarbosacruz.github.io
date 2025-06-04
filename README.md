@@ -10,7 +10,10 @@ Sou uma profissional dedicada à análise e transformação de dados em informa�
 
 LIQ (Agosto de 2013 – Novembro de 2018) – Atuei como Atendente de Telemarketing, realizando atendimentos ativos e receptivos com foco em vendas consultivas e retenção de clientes. Desenvolvi experiência no setor de telecomunicações, lidando com demandas de alto volume e diferentes perfis de consumidores.
 
-Fideleasy330 (Outubro de 2019 – Abril de 2020) – Atuei como Analista de Negócios, realizando mapeamento de processos, identificação de oportunidades e colaboração em projetos voltados à melhoria operacional e aumento da eficiência.
+Fideleasy330 – Analista de Negócios | Out/2019 – Abr/2020
+realizando, Venda de serviços de envio de valores para o Brasil (remessas internacionais) com foco em clientes de outros países Comunicação com operadoras de câmbio em diferentes lojas para garantir a eficiência e segurança no processo de envio de valores; Fidelização de clientes, com acompanhamento mensal e suporte personalizado para novos envios;
+Pesquisa e monitoramento de taxas de câmbio (ex: valor do euro) por meio de sites especializados, para orientar clientes e otimizar o momento da transação;
+Atendimento consultivo, focado na confiança e satisfação dos clientes em processos sensíveis como transferências internacionais.
 
 Em minha trajetória, destaco o estágio em Tecnologia da Informação na Take Blip (via I.T Corp Solutions), realizado entre setembro de 2022 e janeiro de 2023, onde atuei apoiando a equipe no uso de tecnologias voltadas à comunicação digital e contribuí para melhorar a integração entre sistemas e processos internos.
 
@@ -20,8 +23,32 @@ Em minha trajetória, destaco o estágio em Tecnologia da Informação na Take B
 
 
 ### 📘 Fundamentos de Gestão de Projetos  
-- Plataforma: [LinkedIn Learning](https://www.linkedin.com/learning/)  
+- Plataforma: [LinkedIn Learning](https://www.linkedin.com/learning/certificates/8e7b8e35adc29e12e8af3ba94f9cb59c20f2353b7fd6cfccbc9abbb36b0bf7c3?trk=share_certificate)  
+- Ciclo de vida de um projeto: iniciação, planejamento, execução, monitoramento e encerramento.
+
+---
+
+### 📘 Fundamentos do Atendimento ao Cliente  
+- Plataforma: [LinkedIn Learning](https://www.linkedin.com/learning/certificates/a55b098797b0b0d879528ab5e5f7199379edd056a81bc01619c97ff99f0d2341?trk=share_certificate)  
 - Abordagem dos princípios do PMI e metodologias ágeis.
+
+---
+
+### 📘 Curso de HTML (LinkedIn Learning)  
+- Plataforma: [LinkedIn Learning](https://www.linkedin.com/learning/certificates/50909d0e6a9ca5fbdc221efb071be3779f9cba6d64398ffea2ac01ca8f79e392?trk=share_certificate)  
+- O curso de HTML apresenta os fundamentos da linguagem de marcação responsável pela estrutura de páginas web.
+
+---
+
+### 📘 Curso de CSS (LinkedIn Learning)  
+- Plataforma: [LinkedIn Learning](https://www.linkedin.com/learning/certificates/a2d85c4156abf8f0faa1135e4c33a1d3e74cf84c677b555ef3f36912813a7f77?trk=share_certificate)  
+- CSS (Cascading Style Sheets) é uma linguagem usada para estilizar páginas web.
+
+---
+
+### 📘 Curso de Java Script básico (LinkedIn Learning)  
+- Plataforma: [LinkedIn Learning](https://www.linkedin.com/learning/certificates/46dbe286959aca8085940faa31188b1b4f5dc2331436383e636561dfdcd24f74?trk=share_certificate)  
+- JavaScript é uma linguagem de programação essencial para o desenvolvimento web. Junto com HTML e CSS, forma a base da criação de sites dinâmicos e interativos.
 
 ---
 
