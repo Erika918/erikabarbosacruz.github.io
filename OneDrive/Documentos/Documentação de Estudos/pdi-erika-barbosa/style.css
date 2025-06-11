@@ -1,0 +1,33 @@
+ body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f2f6fc;
+  color: #333;
+  margin: 0;
+  padding: 20px;
+}
+
+.titulo {
+  text-align: center;
+  color: #4A90E2;
+  font-size: 32px;
+  margin-bottom: 10px;
+}
+
+.objetivo {
+  text-align: center;
+  font-size: 18px;
+  background-color: #e6f0ff;
+  padding: 15px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+.etapas h2 {
+  font-size: 22px;
+  color: #2c3e50;
+}
+
+ul li {
+  font-size: 16px;
+  margin-bottom: 6px;
+}
