@@ -1,0 +1,21 @@
+ {
+  "name": "Currículo Erika Barbosa Cruz",
+  "short_name": "Currículo Erika",
+  "description": "Currículo profissional de Erika Barbosa Cruz, Analista de Atendimento ao Cliente",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#5429EF",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

@@ -86,6 +86,10 @@
       box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
     }
   </style>
+  <link rel="manifest" href="manifest.json">
+  <meta name="theme-color" content="#5429EF">
+  <link rel="icon" href="icons/icon-192.png" sizes="192x192">
+  <link rel="apple-touch-icon" href="icons/icon-192.png">
 </head>
 <body>
 
@@ -209,8 +213,11 @@
     </div>
     <div class="card-content">
       <h3>Analista de Atendimento ao Cliente</h3>
-      <p>Atuação dedicada ao atendimento de demandas técnicas e operacionais de uma grande empresa de telefonia.</p>
+      <p>✔ Atendimento a clientes na área de prevenção a fraude e suporte digital;<br>
+         ✔ Atuação em ambiente <strong>100% Home Office</strong>, com utilização de ferramentas digitais de comunicação e CRM.<br>
+         ✔ Comunicação direta com clientes via chat, e-mail e WhatsApp, garantindo suporte ágil e personalizado..</p>
     </div>
+
   </div>
 
   <div class="card">
@@ -219,7 +226,9 @@
     </div>
     <div class="card-content">
       <h3>Fraude e Risco</h3>
-      <p>Monitoramento de acessos suspeitos, tratativas de bloqueios e acompanhamento de casos via sistemas internos e TTS.</p>
+      <p>✔ Monitoramento de acessos suspeitos, tratativas de bloqueios e acompanhamento de casos via sistemas internos e TTS.<p></p>
+         ✔ Tratativa de análise de documentação original com selfie do cliente cadastrada nos sistemas internos, com validação de resultados positivos ou negativos.
+      </p>
     </div>
   </div>
 
@@ -231,7 +240,7 @@
     </div>
     <div class="card-content">
       <h3>Suporte a Processos Digitais</h3>
-      <p>Interação com ferramentas automatizadas (bots), documentação de incidentes e melhoria contínua dos fluxos de atendimento.</p>
+      <p> ✔ Interação com ferramentas automatizadas (bots), documentação de incidentes e melhoria contínua dos fluxos de atendimento.</p>
     </div>
   </div>
 </section>
@@ -255,8 +264,19 @@
 
   <footer>
     <p><strong>📍 Localização:</strong> Belo Horizonte, Brasil</p>
-    <p>Estou à disposição para colaborar profissionalmente.😊</p>
+    <p>Estou à disposição para colaborar profissionalmente! 😊</p>
   </footer>
 
 </body>
+<script>
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', function() {
+    navigator.serviceWorker.register('service-worker.js').then(function(registration) {
+      console.log('Service Worker registrado com sucesso:', registration.scope);
+    }, function(err) {
+      console.log('Falha ao registrar Service Worker:', err);
+    });
+  });
+}
+</script>
 </html>
